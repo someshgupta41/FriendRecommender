@@ -1,0 +1,79 @@
+import json
+
+data = {}
+data['person1'] = {}
+data['person1']['name'] = "Somesh"
+data['person1']['age'] = 19
+data['person1']['school'] =  'Stony Brook University'
+data['person1']['location'] = 'Stony Brook'
+data['person1']['previous_location'] = 'Bangalore,Mumbai'
+data['person1']['hobbies'] = 'Swimming,Cricket'
+
+data['person'] = {}
+data['person']['name'] = "GoGo"
+data['person']['age'] = 20
+data['person']['school'] =  'UCSD'
+data['person']['location'] = 'San Diego'
+data['person']['previous_location'] = 'Hyderabad,Mumbai'
+data['person']['hobbies'] = 'Swimming,Cricket,Music'
+
+data['person2'] = {}
+data['person2']['name'] = "Vaibhav"
+data['person2']['age'] = 21
+data['person2']['school'] =  'University of Wisc'
+data['person2']['location'] = 'Madison'
+data['person2']['previous_location'] = 'Bangalore,Mumbai'
+data['person2']['hobbies'] = 'Swimming,Cricket,Soccer'
+
+data['person3'] = {}
+data['person3']['name'] = "Parth"
+data['person3']['age'] = 22
+data['person3']['school'] =  'Stony Brook University'
+data['person3']['location'] = 'Stony Brook'
+data['person3']['previous_location'] = 'Bangalore,Mumbai'
+data['person3']['hobbies'] = 'Swimming,Cricket,Coding'
+
+data['person4'] = {}
+data['person4']['name'] = "Hari"
+data['person4']['age'] = 21
+data['person4']['school'] =  'CUNY'
+data['person4']['location'] = 'Columbia'
+data['person4']['previous_location'] = 'New York,Bangalore,Mumbai'
+data['person4']['hobbies'] = 'Swimming,Cricket,Hiking'
+
+data['person5'] = {}
+data['person5']['name'] = "Sushant"
+data['person5']['age'] = 23
+data['person5']['school'] =  'Stony Brook University'
+data['person5']['location'] = 'Stony Brook'
+data['person5']['previous_location'] = 'Mumbai'
+data['person5']['hobbies'] = 'Clubbing,Swimming,Cricket'
+
+data['person6'] = {}
+data['person6']['name'] = "Sadist"
+data['person6']['age'] = 24
+data['person6']['school'] =  'Stony Brook University'
+data['person6']['location'] = 'Stony Brook'
+data['person6']['previous_location'] = 'Mumbai,Bangalore,Mumbai'
+data['person6']['hobbies'] = 'Swimming,Cricket,Piano'
+
+data['person7'] = {}
+data['person7']['name'] = "Opportunist"
+data['person7']['age'] = 24
+data['person7']['school'] =  'Stony Brook University'
+data['person7']['location'] = 'Stony Brook'
+data['person7']['previous_location'] = 'Delhi,Bangalore,Mumbai'
+data['person7']['hobbies'] = 'Swimming,Cricket,Sarcasm'
+
+
+data['person8'] = {}
+data['person8']['name'] = "Parthas"
+data['person8']['age'] = 23
+data['person8']['school'] =  'Stony Brook University'
+data['person8']['location'] = 'Stony Brook'
+data['person8']['previous_location'] = 'Bangalore,Mumbai'
+data['person8']['hobbies'] = 'Swimming,Cricket,Coding'
+
+json_data = json.dumps(data)
+
+print json_data
