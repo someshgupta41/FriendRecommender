@@ -16,6 +16,14 @@ query_code = 0
 
 while query_code != -1: # query_code = -1, defines terminating condition
 
+    print "Enter 1 for getting friend Recommendations "
+    
+    print "Enter 2 for updating the friend details "
+    
+    print "Enter 3 for adding a new relationship "
+    
+    print "Enter -1 to exit the social network"
+    
     query_code = int(raw_input("\nEnter the query code which you want to perform: "))
 
     if query_code == 1: # for recommendations
