@@ -1,0 +1,104 @@
+{
+	"persons": [{
+		"school": "Stony Brook University",
+		"pid" : 1,
+		"name": "Parth",
+		"gender": "M",
+		"age": 22,
+		"location": "Stony Brook",
+		"previous_location": "Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Coding",
+		"friends" : "2,3,4"
+	}, {
+		"school": "University of Wisc",
+		"pid" : 2,
+		"name": "Vaibhav",
+		"gender": "F",
+		"age": 21,
+		"location": "Madison",
+		"previous_location": "Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Soccer",
+		"friends" : "1,3,4,10"
+	}, {
+		"school": "UCSD",
+		"pid" : 3,
+		"name": "GoGo",
+		"gender": "F",
+		"age": 20,
+		"location": "San Diego",
+		"previous_location": "Hyderabad,Mumbai",
+		"hobbies": "Swimming,Cricket,Music",
+		"friends" : "1,2,4"
+	}, {
+		"school": "Stony Brook University",
+		"pid" : 4,
+		"name": "Somesh",
+		"gender": "M",
+		"age": 19,
+		"location": "Stony Brook",
+		"previous_location": "Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket",
+		"friends" : "1,2,3"
+	}, {
+		"school": "Stony Brook University",
+		"pid" : 5,
+		"name": "Sadist",
+		"gender": "M",
+		"age": 24,
+		"location": "Stony Brook",
+		"previous_location": "Mumbai,Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Piano",
+		"friends" : "6,7"
+	}, {
+		"school": "Stony Brook University",
+		"pid" : 6,
+		"name": "Opportunist",
+		"gender": "M",
+		"age": 24,
+		"location": "Stony Brook",
+		"previous_location": "Delhi,Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Sarcasm",
+		"friends" : "5,7,1"
+	}, {
+		"school": "CUNY",
+		"pid" : 7,
+		"name": "Hari",
+		"gender": "M",
+		"age": 21,
+		"location": "Columbia",
+		"previous_location": "New York,Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Hiking",
+		"friends" : "5,6"
+	},{
+		"school": "CUNY",
+		"pid" : 8,
+		"name": "Hari",
+		"gender": "M",
+		"age": 21,
+		"location": "Columbia",
+		"previous_location": "New York,Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Hiking",
+		"friends" : "9"
+	},
+		{
+		"school": "CUNY",
+		"pid" : 9,
+		"name": "Hari",
+		"gender": "M",
+		"age": 21,
+		"location": "Columbia",
+		"previous_location": "New York,Bangalore,Mumbai",
+		"hobbies": "Swimming,Cricket,Hiking",
+		"friends" : "8, 5, 1"
+	},{
+		"school": "Stony Brook University",
+		"pid" : 10,
+		"name": "Sushant",
+		"gender": "M",
+		"age": 23,
+		"location": "Stony Brook",
+		"previous_location": "Mumbai",
+		"hobbies": "Clubbing,Swimming,Cricket",
+		"friends" : "2"
+	}]
+}
